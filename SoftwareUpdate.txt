@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Add YOLOv8 LibTorch C++ inference example (#7090)
