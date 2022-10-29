@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Reverse IoU threshold for NMS docs descriptions (#9151)
