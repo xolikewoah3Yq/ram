@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+fix yolo classify model loading error (#9196)
