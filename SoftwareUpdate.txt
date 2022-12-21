@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
