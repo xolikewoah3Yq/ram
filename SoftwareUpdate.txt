@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
