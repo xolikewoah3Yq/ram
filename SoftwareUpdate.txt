@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Auto-format by https://ultralytics.com/actions
