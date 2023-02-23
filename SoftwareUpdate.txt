@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Merge pull request #22 from SkalskiP/patch-1
