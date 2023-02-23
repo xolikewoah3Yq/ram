@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
