@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+OBB: Fix plot_images (#7592)
