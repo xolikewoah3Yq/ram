@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
