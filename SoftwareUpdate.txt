@@ -1,1 +1,1 @@
-fix print val map
+Fix TypeError in check_cfg() (#9245)
