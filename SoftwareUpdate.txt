@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Hold failed upload metrics and upload with next upload metrics (#8513)
