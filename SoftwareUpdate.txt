@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Clarify triton server boolean value (#8532)
