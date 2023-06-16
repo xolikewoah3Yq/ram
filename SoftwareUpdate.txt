@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add C++ Classify inference example (#6868)
