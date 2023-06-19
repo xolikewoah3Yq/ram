@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
