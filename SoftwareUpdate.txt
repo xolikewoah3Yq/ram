@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Resize angle, count, and stage on keypoint number change (#7598)
