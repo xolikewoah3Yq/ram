@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
