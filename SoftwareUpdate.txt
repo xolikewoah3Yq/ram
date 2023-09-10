@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
