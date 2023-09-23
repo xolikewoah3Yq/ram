@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
