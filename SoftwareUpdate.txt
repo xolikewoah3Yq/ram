@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
