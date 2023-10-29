@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add plot_images conf_thresh parameter (#8446)
