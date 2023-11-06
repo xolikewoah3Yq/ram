@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
