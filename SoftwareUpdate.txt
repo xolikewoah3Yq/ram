@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
