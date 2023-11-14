@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Elaborate Train and Predict mode docs arguments (#8137)
