@@ -1,1 +1,1 @@
-Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
