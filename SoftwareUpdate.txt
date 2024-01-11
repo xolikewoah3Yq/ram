@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Elaborate Train and Predict mode docs arguments (#8137)
