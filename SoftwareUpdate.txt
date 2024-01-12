@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Docs partial mdformat improvements (#7378)
