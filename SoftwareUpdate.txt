@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+* fix for predicting with batch_size > 1
