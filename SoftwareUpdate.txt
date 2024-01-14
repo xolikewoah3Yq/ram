@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
