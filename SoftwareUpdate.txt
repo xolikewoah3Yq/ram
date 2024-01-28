@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+fix yolo classify model loading error (#9196)
