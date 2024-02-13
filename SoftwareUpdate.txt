@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
