@@ -1,1 +1,1 @@
-update requirements.txt
+Retry once for Docker CI failures (#8164)
