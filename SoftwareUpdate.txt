@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Optimize function calls to method calls (#8507)
