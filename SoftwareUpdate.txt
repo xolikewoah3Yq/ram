@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
