@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Fix IS_PYTHON_3_12 bug (#9258)
