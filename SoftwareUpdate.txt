@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Expand Model method type hinting (#8279)
