@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Resize angle, count, and stage on keypoint number change (#7598)
