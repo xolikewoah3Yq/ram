@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
