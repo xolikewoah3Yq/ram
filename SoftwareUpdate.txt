@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
