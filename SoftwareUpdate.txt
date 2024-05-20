@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
